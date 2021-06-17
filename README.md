@@ -1,2 +1,2 @@
-# Dongcheol-Ryu.github.io
+# dcryu.github.io
 github blog
