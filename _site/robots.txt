@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://ryudongcheol.github.io/sitemap.xml
